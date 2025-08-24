@@ -29,6 +29,5 @@ When the user clicks a button:
 3. Click the button and see JavaScript in action!
 
 4. ## Additional Resources
-   [YouTube Video]
    👀 [Blog Post](https://thecodingheaven.com/posts/intro-to-javascript)
  
