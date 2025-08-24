@@ -27,3 +27,6 @@ When the user clicks a button:
 1. Download or clone this repo.
 2. Open `index.html` in your browser.
 3. Click the button and see JavaScript in action!
+
+4. ## Article with detailed Explanation:
+   https://thecodingheaven.com/posts/intro-to-javascript
