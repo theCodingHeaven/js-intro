@@ -28,5 +28,7 @@ When the user clicks a button:
 2. Open `index.html` in your browser.
 3. Click the button and see JavaScript in action!
 
-4. ## Article with detailed Explanation:
-   https://thecodingheaven.com/posts/intro-to-javascript
+4. ## Additional Resources
+   [YouTube Video]
+   👀 [Blog Post](https://thecodingheaven.com/posts/intro-to-javascript)
+ 
